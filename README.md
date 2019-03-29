@@ -146,7 +146,7 @@ We typically use the standard desalting for the P1.1, P2.1, P2.2, and PCR oligos
 ### Generating Douglas Lab 'ddRAD 1.0' adapters:
 These are our adapters for legacy projects. They use the Peterson et al 2012 templates, with PstI (p1) and MspI (p2) overhangs, a 5-base barcode in the p1 adapter, and a 6-base TruSeq style index in the p2 adapter
 
-<<add later>
+Add in later. 
 
 ### Generating Douglas Lab 'ddRAD 2.0' adapters:
 These are a modification of the 1.0 adapters, with the 5' barcodes replaced with 8-base long barcodes with a minimum edit distance of 3 (see Faircloth and Glenn 2012), and optional 40base degenerate region after the 6-base p2 index (see Tin
