@@ -3,7 +3,7 @@ Repository for designing our RAD and UCE adapters.
 
 All tags and indices taken from: Faircloth and Glenn. 2012. Not All Sequence Tags Are Created Equal: Designing and Validating Sequence Identification Tags Robust to Indels. Plos One. [doi:10.1371/journal.pone.0042543](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042543)
 
-Credit for the degenerate base modification in the p2 adapter goes to Tin et al (2015). Degenerate adaptor sequences for detecting PCR duplicatesin reduced representation sequencing data improve genotypecalling accuracy. Molecular Ecology Resources. [doi: 10.1111/1755-0998.12314](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.12314)
+Credit for the degenerate base modification in the p2 adapter goes to Tin et al (2015). Degenerate adaptor sequences for detecting PCR duplicates in reduced representation sequencing data improve genotype calling accuracy. Molecular Ecology Resources. [doi: 10.1111/1755-0998.12314](https://onlinelibrary.wiley.com/doi/epdf/10.1111/1755-0998.12314)
 
 ## Usage
 ````
